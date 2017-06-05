@@ -6,6 +6,12 @@ Not much here yet...
 
 ## /hda - digital assets
 
+### PTF (Parallel Transport Frames)
+
+<small>Tags: VEX, curves, polygons</small>
+
+Sweeps profile shape along one or multiple curves. Use multiple instances for recursive application. Parameters for twisting, radius modulation ramp, multiple generation modes: curves, tube, disc. Includes Help page w/ further details.
+
 ### Phyllotaxis
 
 <small>Tags: Python, points</small>
